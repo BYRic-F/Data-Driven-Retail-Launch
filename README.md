@@ -1,4 +1,4 @@
-# Business Case : Implantation Stratégique d'un Magasin de Vélos
+# Business Case : Implantation stratégique d'un magasin de vélos
 
 ## Problématique Business
 **"Comment créer et développer efficacement un petit magasin spécialisé dans le domaine du vélo, en se positionnant de manière stratégique sur le marché, tout en maximisant l'attrait pour les investisseurs ?"**
@@ -7,25 +7,25 @@ Ce projet a été réalisé dans le cadre d'une certification Data Analyst. L'ob
 
 ---
 
-## Aperçu des Résultats (Power BI)
+## Aperçu des résultats (Power BI)
 
 Pour maximiser la visibilité sur GitHub, voici les indicateurs clés issus de mon tableau de bord :
 
-### 1. Performance du Marché et Saisonnalité
+### 1. Performance du marché et saisonnalité
 ![Performance du Marché](images/performance-du-marché.png)
 *Analyse de l'évolution du profit et du chiffre d'affaires par mois et par région.*
 
-### 2. Profiling et Segmentation Produits
+### 2. Profiling et segmentation Produits
 ![Profiling Segmentation](images/profiling-segementation-produits.png)
 *Identification des catégories les plus rentables et des segments clients (Adults 35-64) à cibler.*
 
-### 3. Exécution et Pilotage
+### 3. Exécution et pilotage
 ![Exécution Pilotage](images/execution-et-pilotage.png)
 *Visualisation du plan d'action : CA selon les produits sélectionnées et la région choisie.*
 
 ---
 
-## Cheminement Stratégique
+## Cheminement stratégique
 
 Mon analyse s'est structurée autour de trois piliers majeurs :
 
@@ -52,7 +52,7 @@ En tant qu'analyste, il est crucial d'apporter un regard critique sur les donné
 
 ---
 
-## Structure du Dépôt
+## Structure du dépôt
 *   `/images` : Contient les screenshots de l'application Power BI.
 *   `Bikes.pbix` : Le fichier source Power BI pour l'interactivité.
 *   `Power_Point_Presentation` : le PowerPoint (ou .pdf) contenant la présentation
