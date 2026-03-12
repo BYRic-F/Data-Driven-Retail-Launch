@@ -45,7 +45,7 @@ En tant qu'analyste, il est crucial d'apporter un regard critique sur les donné
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 *   **Exploration & Nettoyage** : Python (Nettoyage et légère EDA en Python)
 *   **Visualisation de données** : Power BI
 *   **Présentation** : PowerPoint (PDF)
