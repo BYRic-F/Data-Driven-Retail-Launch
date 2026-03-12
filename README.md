@@ -12,15 +12,15 @@ Ce projet a été réalisé dans le cadre d'une certification Data Analyst. L'ob
 Pour maximiser la visibilité sur GitHub, voici les indicateurs clés issus de mon tableau de bord :
 
 ### 1. Performance du Marché et Saisonnalité
-![Performance du Marché](Fichier%20terminé/images/performance-du-marché.png)
+![Performance du Marché](images/performance-du-marché.png)
 *Analyse de l'évolution du profit et du chiffre d'affaires par mois et par région.*
 
 ### 2. Profiling et Segmentation Produits
-![Profiling Segmentation](Fichier%20terminé/images/profiling-segementation-produits.png)
+![Profiling Segmentation](images/profiling-segementation-produits.png)
 *Identification des catégories les plus rentables et des segments clients (Adults 35-64) à cibler.*
 
 ### 3. Exécution et Pilotage
-![Exécution Pilotage](Fichier%20terminé/images/execution-et-pilotage.png)
+![Exécution Pilotage](images/execution-et-pilotage.png)
 *Visualisation du plan d'action : CA selon les produits sélectionnées et la région choisie.*
 
 ---
